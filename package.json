@@ -1,0 +1,14 @@
+{
+  "name": "poc_mongolab",
+  "version": "1.0.0",
+  "description": "Teste de Conexao com  MongoLab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.33"
+  }
+}
